@@ -1,0 +1,97 @@
+.App-logo {
+    height: 50px;
+  }
+   
+  .App-header {
+    background-color: rgb(185, 67, 21);
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 60px;
+    padding: 20px;
+    padding-bottom: 25px;;
+    align-self: center;
+  }
+
+  #logo{
+      position:absolute;
+      padding:3px;
+      float:left;
+      margin-top: -45px;
+      Color:White;
+      font-family: 'DM Mono', monospace;
+      font-size: 3.3vw;
+  }
+
+  ul{
+      width: auto;
+      color:azure;
+      float:right;
+      margin-top: 8px;    
+
+  }
+
+  li{
+      display: inline-block;
+      
+      padding: 15px 30px;
+      position:static;
+  }
+
+  Link{
+     text-align: center; 
+     
+     text-decoration: none;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1.2vw;
+     background-color: black;
+     border-color: #000000;
+     
+  }
+
+  Link:hover{
+      position:initial;
+      color:red;
+      transition:0.5s;
+      font-size: 1.2vw;
+      cursor: pointer;
+  }
+ 
+  .navbutton:focus{
+      outline: none;
+      box-shadow: none;
+      color:red;
+  }
+  .rnavbutton{
+    text-align: center; 
+    color:red;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+    background-color: black;
+    border-color: #000000;
+    
+ }
+
+
+ .rnavbutton:focus{
+     outline: none;
+     box-shadow: none;
+     color:red;
+ }
+
+ .links{
+     color: white;
+     text-align: center; 
+     text-decoration: none;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1.2vw;
+ }
+
+ .links:hover{
+    position:initial;
+    color:black;
+    transition:0.5s;
+    font-size: 1.2vw;
+    cursor: pointer;
+ }

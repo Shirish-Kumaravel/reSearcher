@@ -1,0 +1,95 @@
+.searchbutton{
+    color: white;
+    text-align: center; 
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+    background-color: rgb(185, 67, 21);
+    border-top: 100px;
+    padding-bottom: 10vw;
+    padding-top: 10vw;
+    padding-right: 7vw;
+    padding-left: 7vw;
+}
+
+.searchbutton:hover{
+   position:initial;
+   background-color: rgb(13, 4, 1);
+   transition:0.5s;
+   font-size: 1.2vw;
+   cursor: pointer;
+}
+
+.ls{
+    height:0px;
+    margin-top: 10px;
+    margin-bottom:30px;
+}
+
+.regbutton{
+    color: white;
+    text-align: center; 
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+    background-color: rgb(185, 67, 21);
+    border-top: 100px;
+    padding-bottom: 12vw;
+    padding-top: 12vw;
+    padding-right: 7vw;
+    padding-left:7vw;
+}
+
+.regbutton:hover{
+   position:initial;
+   background-color: rgb(13, 4, 1);
+   transition:0.5s;
+   font-size: 1.2vw;
+   cursor: pointer;
+}
+
+.searchb{
+    color: white;
+    text-align: center; 
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+    padding-left:25vw;
+    padding-right: 25vw;
+    padding-bottom: 10px;
+    
+}
+
+.searchb:hover{
+   font-size: 1.2vw;
+}
+
+.searchdiv{
+    margin-left: 15vw;
+    margin-top: 3vw;
+    width:70vw;
+    padding-bottom: 0vw;
+    background-color: rgb(185, 67, 21);
+}
+.searchdiv:hover{
+    position:initial;
+    background-color: rgb(13, 4, 1);
+    transition:0.5s;
+    cursor: pointer;
+    
+}
+
+.homefont{
+    margin-top: 5vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-size:xx-large;
+    font-family: 'Noto Sans Mono', monospace;
+
+}
+
+.homefont:hover{
+    color:rgb(185, 67, 21) ;
+    transition: 1s;
+}
+
